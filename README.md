@@ -18,6 +18,7 @@
 
 #### MY STACKS
 - Blockchain
+- Artificial Intelligence
 - Hybrid Mobile(Flutter, React Native) and Native Mobile(Swift, Objective C, Java)
 - Reactjs, Nextjs, Gatsby, Redux & toolkit
 - Vuejs, Nuxtjs, Vuex
@@ -30,7 +31,6 @@
 - PHP, Laravel | Livewire, Symfony, CodeIgniter, YII
 - C#, ASP.NET, C++
 - Unity3D
-- Face recognition, OpenCV, 
 
 #### Donate 
 BSC, ERC-20, Polygon, OP network my address ends with "addc"
