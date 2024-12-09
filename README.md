@@ -25,7 +25,7 @@
 - Angularjs, Angular, Typescript
 - Nodejs, Expressjs, Prisma, Sequelize, Mongoose, Graphql
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
-- MSSQL, MySQL, PostgreSQL, MongoDB
+- MSSQL, MySQL, PostgreSQL, MongoDB, Firebase
 - Python, Django
 - Ruby, Ruby on Rails
 - PHP, Laravel | Livewire, Symfony, CodeIgniter, YII
