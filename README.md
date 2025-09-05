@@ -43,14 +43,8 @@ please check screenshot. https://prnt.sc/Zt1hCgoHQUhd https://prnt.sc/3Nye1dZVVQ
 The correct contract address is https://polygonscan.com/token/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359
 An example of the wrong contract address is https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174, which should be avoided.
 
-TRON
-
-
-Solana
-
-
-BTC
-
+TRON, Solana, BTC, POLY
+https://docs.google.com/document/d/1HskSOtCw5lrrlNJRoq7Y-V6yddWvGoI-867YyLOKO-0
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
