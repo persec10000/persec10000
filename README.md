@@ -32,19 +32,13 @@
 - C#, ASP.NET, C++
 - Unity3D
 
-#### Donate 
-Don't send for a while!!!
+#### Donate ( Dont send for a while )
+(Important) Don't send for a while!!!
 
-0xcebd2ca22f9faf965cc380cfd0871593507f7291
-0x4ec4fd4589a18498f977a7c2adf4a4c49fa2cdfb
+(Important) Don't send for a while!!!
 
+(Important) Don't send for a while!!!
 
-POLY
-
-(!!!Important!!!) USDC.e can not be recognized. USDC contract address should be end with c3359. 
-please check screenshot. https://prnt.sc/Zt1hCgoHQUhd https://prnt.sc/3Nye1dZVVQa5
-The correct contract address is https://polygonscan.com/token/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359
-An example of the wrong contract address is https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174, which should be avoided.
 
 TRON, Solana, BTC, POLY
 https://docs.google.com/document/d/1HskSOtCw5lrrlNJRoq7Y-V6yddWvGoI-867YyLOKO-0
