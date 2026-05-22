@@ -32,14 +32,7 @@
 - C#, ASP.NET, C++
 - Unity3D
 
-#### Donate ( Dont send for a while )
-(Important) Don't send for a while!!!
-
-(Important) Don't send for a while!!!
-
-(Important) Don't send for a while!!!
-
-
+#### Donate
 TRON, Solana, BTC, POLY
 https://docs.google.com/document/d/1HskSOtCw5lrrlNJRoq7Y-V6yddWvGoI-867YyLOKO-0
 
